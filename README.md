@@ -50,10 +50,4 @@ The core idea was to automate Reddit data ingestion and set up a cloud-native ar
 
 This project helped me understand how to design production-grade data pipelines that are fully event-driven, secure, scalable, and modular. It combined real-world API data, Airflow orchestration, Docker-based environments, and full integration into AWS cloud services, preparing a strong foundation for future cloud-native data engineering solutions.
 
----
-
-> **Note:** You can click on the architecture diagram at the top for a better view.
-
----
-
 Feel free to fork this repository, raise issues, or suggest improvements!
